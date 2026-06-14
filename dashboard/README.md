@@ -8,7 +8,7 @@ The goal of this dashboard is to understand conversion patterns, drop-offs, and 
 
 ---
 
-🎯 Objective
+## Objective
 Analyze user activity across different funnel stages
 Measure conversion efficiency from views to purchases
 Identify major drop-off points in the customer journey
@@ -16,7 +16,7 @@ Derive actionable insights for improving conversion rate
 
 ---
 
-🧩 Dashboard Components
+## Dashboard Components
 1. KPI Cards
 
 The dashboard includes four key performance indicators:
@@ -58,19 +58,19 @@ Overall conversion rate is low compared to total engagement
 
 ---
 
-📈 Key Insights Derived
+## Key Insights Derived
 Majority of users exit before completing purchase
 Cart-to-purchase conversion is the weakest stage
 Users show strong intent but require better conversion optimization strategies
 Funnel indicates opportunity for UX and checkout improvement
 
-🛠️ Tools Used
+## Tools Used
 Power BI
 Data Visualization
 Funnel Analysis Techniques
 KPI Modeling
 
-📌 Key Learnings
+## Key Learnings
 Understanding real-world e-commerce funnel behavior
 Identifying drop-off points using visualization
 Translating raw data into business insights
