@@ -237,5 +237,3 @@ Based on the analysis, the following actions are recommended:
 ## Author
 
 **Khyati Kukreja**
-
-Khyati Kukreja
